@@ -1,0 +1,10 @@
+[package]
+name = "parcel_plugin_rustwasm_example"
+version = "0.1.0"
+authors = ["Nikolay Safin"]
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+wasm-bindgen = "0.2.22"

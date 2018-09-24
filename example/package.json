@@ -1,0 +1,12 @@
+{
+  "name": "parcel-plugin-rustwasm-example",
+  "version": "0.1.0",
+  "description": "parcel-plugin-rustwasm-example usage example",
+  "scripts": {
+    "start": "parcel --no-cache index.html --open"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.10.0",
+    "parcel-plugin-rustwasm": "^0.1.0"
+  }
+}
