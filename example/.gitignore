@@ -50,6 +50,7 @@ dist/
 
 # Rust build files
 target/
+pkg/
 
 # Others
 .DS_Store
